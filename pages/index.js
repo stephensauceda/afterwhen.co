@@ -1,6 +1,5 @@
 import React from 'react'
 import Head from 'next/head'
-import css from 'next/css'
 
 export default () => (
   <div>
